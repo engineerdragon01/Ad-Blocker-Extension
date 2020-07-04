@@ -1,0 +1,12 @@
+{
+    "name": "Ad Blocker",
+    "version": "1.0",
+    "description": "Chrome URL Blocking Extension",
+    "manifest_version": 1,
+
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+
+    "background": {
+      "scripts": ["background.js"]
+    }
+}
