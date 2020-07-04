@@ -2,7 +2,7 @@
     "name": "Ad Blocker",
     "version": "1.0",
     "description": "Chrome URL Blocking Extension",
-    "manifest_version": 1,
+    "manifest_version": 2,
 
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
 
